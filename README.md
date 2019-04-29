@@ -1,6 +1,7 @@
 # suwacount
 count your youtube views!!
 
+
 ```
 How to install:
 1. Clone the repo
@@ -11,3 +12,7 @@ How to use:
 4. Click the icon in the task bar to see how many times you've watched a video!
 5. Click "see video counts" to see video counts
 ```
+
+
+
+![Alt text](splash.png?raw=true "Title")
